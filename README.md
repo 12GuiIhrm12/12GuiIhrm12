@@ -47,8 +47,8 @@
 
 ---
 
-### <p align="center"> 🔗 Links </p>
-<p align="center">
+### <p align="center"> 🔗 Links 🔗 </p>
+<p align="center"> 
   <a href="https://github.com/12Guilhrm12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://tochikastudios.com/">
     <img src="https://custom-icon-badges.demolab.com/badge/Tochika_Studios-orange.svg?logo=tochikastudios&logoColor=white&style=for-the-badge" alt="Tochika Studios"/>
