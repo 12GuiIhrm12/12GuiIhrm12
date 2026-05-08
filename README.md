@@ -33,6 +33,7 @@
     Also learning GameMaker, Godot and Discord applications with JS.
     I am Pianist for over 9 Years, and have many knowledge about it.
     <br><br>
+    <hr>
     <b>My Setup:</b><br>
     <ul>
       <li>OS  : Cachy OS (Arch Linux Kernel)</li>
