@@ -32,15 +32,15 @@
     Currently learning C/C++, CSharp and Python for Software Development.
     Also learning GameMaker, Godot and Discord applications with JS.
     I am Pianist for over 9 Years, and have many knowledge about it.
-    <br>
-    My Setup:<br>
-    <ol>
+    <br><br>
+    <b>My Setup:</b><br>
+    <ul>
       <li>OS  : Cachy OS (Arch Linux Kernel)</li>
       <li>CPU : Xeon E5 2650 V3 </li>
       <li>GPU : Radeon RX 580</li>
       <li>RAM : 8GB 2666Mhz</li>
       <li>PIANO : Yamaha P145</li>
-    </ol>
+    </ul>
   </p>
 </p>
 ---
