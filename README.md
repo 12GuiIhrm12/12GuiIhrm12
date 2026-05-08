@@ -18,23 +18,31 @@
 
 ---
 
-### <p align="center"> Projects i'm working on </p>
+### <p align="center"> Tochika Studios : Projects </p>
 <p align="center">
   🟠 Orange        <br>
-  🐹 Hamster Havoc <br>
 </p>
 
 ---
 
 ### <p align="center"> ⚔️ About me ⚔️ </p>
 <p align="center">
-  Hello, I am Justin. I'm an Indie Game Developer, Musician and a Programmer. I've been working on some projects, and i'm learning C++ and Python.
-  <br>
-  My actual project is a 2D top-down game called Orange, you control an Orange Kid and must survive your own fears.
-  <br>
-  Working on a Self-Help AI ChatBot integration using pytorch and python.
+  <p align="justify">
+    Hello, I am Justin. An young Game Developer, creator of Tochika Studios. 
+    Currently learning C/C++, CSharp and Python for Software Development.
+    Also learning GameMaker, Godot and Discord applications with JS.
+    I am Pianist for over 9 Years, and have many knowledge about it.
+    <br>
+    My Setup:<br>
+    <ol>
+      <li>OS  : Cachy OS (Arch Linux Kernel)</li>
+      <li>CPU : Xeon E5 2650 V3 </li>
+      <li>GPU : Radeon RX 580</li>
+      <li>RAM : 8GB 2666Mhz</li>
+      <li>PIANO : Yamaha P145</li>
+    </ol>
+  </p>
 </p>
-
 ---
 
 ### <p align="center"> 🔗 Links </p>
