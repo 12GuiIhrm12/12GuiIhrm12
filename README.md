@@ -11,7 +11,9 @@
 ---
 ### <p align="center"> ⚙️ Abilities ⚙️ </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio,cpp,python,discord,html,css" />
+  <img src="https://skillicons.dev/icons?i=arch,discord,github" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio,vscode,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,htmx" />
 </p>
 
 ---
