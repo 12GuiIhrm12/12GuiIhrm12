@@ -16,14 +16,14 @@
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,htmx" /> <br>
 </p>
 
----
+----
 
 ### <p align="center"> Tochika Studios : Projects </p>
 <p align="center">
   🟠 Orange        <br>
 </p>
 
----
+----
 
 ### <p align="center"> ⚔️ About me ⚔️ </p>
 <p align="center">
