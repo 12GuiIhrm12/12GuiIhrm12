@@ -9,21 +9,7 @@
 <h3 align="center">Programmer • Musician • Game Developer</h3>
 
 ---
-### <p align="center"> ⚙️ Abilities ⚙️ </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,discord,github,discordjs" /> <br>
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio,godot,vscode,stackoverflow" /> <br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,htmx" /> <br>
-</p>
 
-----
-
-### <p align="center"> Tochika Studios : Projects </p>
-<p align="center">
-  🟠 Orange        <br>
-</p>
-
-----
 
 ### <p align="center"> ⚔️ About me ⚔️ </p>
 <p align="center">
@@ -43,6 +29,21 @@
       <li>PIANO : Yamaha P145</li>
     </ul>
   </p>
+</p>
+
+---
+### <p align="center"> ⚙️ Abilities ⚙️ </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arch,discord,github,discordjs" /> <br>
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio,godot,vscode,stackoverflow" /> <br>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,htmx" /> <br>
+</p>
+
+---
+
+### <p align="center"> Tochika Studios : Projects </p>
+<p align="center">
+  🟠 Orange        <br>
 </p>
 
 ---
