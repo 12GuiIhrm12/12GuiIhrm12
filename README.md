@@ -21,7 +21,7 @@
     <br><br>
     <b>My Setup:</b><br>
     <ul>
-      <li>OS  : Cachy OS (Arch Linux Kernel)</li>
+      <li>OS  : Arch Linux</li>
       <li>CPU : Xeon E5 2650 V3 </li>
       <li>GPU : Radeon RX 580</li>
       <li>RAM : 8GB 2666Mhz</li>
