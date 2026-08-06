@@ -33,8 +33,8 @@
 ---
 ### <p align="center"> ⚙️ Abilities ⚙️ </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,discord,github, python" /> <br>
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio,vscode,stackoverflow, htmx" /> <br>
+  <img src="https://skillicons.dev/icons?i=arch,discord,github,python" /> <br>
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio,vscode,stackoverflow,htmx" /> <br>
 </p>
 
 ---
