@@ -21,10 +21,10 @@
     <br><br>
     <b>My Setup:</b><br>
     <ul>
-      <li>OS  : Arch Linux</li>
+      <li>OS  : CachyOS Linux</li>
       <li>CPU : Xeon E5 2650 V3 </li>
       <li>GPU : Radeon RX 580</li>
-      <li>RAM : 8GB 2666Mhz</li>
+      <li>RAM : 16GB 2666Mhz</li>
       <li>PIANO : Yamaha P145</li>
     </ul>
   </p>
@@ -33,9 +33,9 @@
 ---
 ### <p align="center"> ⚙️ Abilities ⚙️ </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,discord,github,discordjs" /> <br>
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio,godot,vscode,stackoverflow" /> <br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,htmx" /> <br>
+  <img src="https://skillicons.dev/icons?i=arch,discord,github" /> <br>
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio,vscode,stackoverflow" /> <br>
+  <img src="https://skillicons.dev/icons?i=cs,python,htmx" /> <br>
 </p>
 
 ---
